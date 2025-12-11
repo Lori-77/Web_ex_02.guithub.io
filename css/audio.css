@@ -41,7 +41,7 @@ body {
 
 /* id用井号 */
 #record-img {
-    background-image: url('../img/record0.jpg');
+    background-image: url('./img/record0.jpg');
     background-size: 100% 100%;
     width: 250px;
     height: 250px;
@@ -130,12 +130,12 @@ body {
 }
 
 .playMode {
-    background-image: url('./../img/mode1.png');
+    background-image: url('./img/mode1.png');
     background-size: 100% 100%;
 }
 
 .beforeMusic {
-    background-image: url('./../img/上一首.png');
+    background-image: url('./img/上一首.png');
     background-size: 100% 100%;
 }
 
@@ -147,22 +147,22 @@ body {
 }
 
 .icon-play {
-    background-image: url('./../img/继续播放.png');
+    background-image: url('./img/继续播放.png');
     background-size: 100% 100%; 
 }
 
 .icon-pause {
-    background-image: url('./../img/暂停.png');
+    background-image: url('./img/暂停.png');
     background-size: 100% 100%; 
 }
 
 .nextMusic {
-    background-image: url('./../img/下一首.png');
+    background-image: url('./img/下一首.png');
     background-size: 100% 100%;
 }
 
 .volumn {
-    background-image: url('./../img/音量.png');
+    background-image: url('./img/音量.png');
     background-size: 100% 100%;
 }
 
@@ -180,7 +180,7 @@ body {
 }
 
 #MV {
-    background-image: url('./../img/MV.png');
+    background-image: url('./img/MV.png');
     background-size: 100% 100%;
 }
 
@@ -190,7 +190,7 @@ body {
 }
 
 #list {
-    background-image: url('./../img/列表.png');
+    background-image: url('./img/列表.png');
     background-size: 100% 100%;
 }
 
@@ -278,4 +278,5 @@ body {
     to {
         transform: translateX(100%);
     }
+
 }
