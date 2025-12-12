@@ -135,7 +135,7 @@ body {
 }
 
 .beforeMusic {
-    background-image: url('../img/上一首.png');
+    background-image: url('../img/prev.png');
     background-size: 100% 100%;
 }
 
@@ -147,7 +147,7 @@ body {
 }
 
 .icon-play {
-    background-image: url('../img/继续播放.png');
+    background-image: url('../img/Cont.png');
     background-size: 100% 100%; 
 }
 
@@ -157,12 +157,12 @@ body {
 }
 
 .nextMusic {
-    background-image: url('../img/下一首.png');
+    background-image: url('../img/pause.png');
     background-size: 100% 100%;
 }
 
 .volumn {
-    background-image: url('../img/音量.png');
+    background-image: url('../img/volume.png');
     background-size: 100% 100%;
 }
 
@@ -280,4 +280,5 @@ body {
     }
 
 }
+
 
